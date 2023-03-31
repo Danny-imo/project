@@ -1,9 +1,9 @@
 * {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .main {
-  background-image: url("image-folder/header-shapes\ mobile@2x.svg");
+  background-image: url('image-folder/header-shapes\ mobile@2x.svg');
   background-color: #fff;
   background-repeat: no-repeat;
   background-size: cover;
@@ -13,7 +13,7 @@
   font-size: 20px;
   font-weight: 700;
   color: #6070ff;
-  font-family: "poppins", sans-serif;
+  font-family: 'poppins', sans-serif;
 }
 
 .fa {
@@ -40,7 +40,7 @@
 
 .content p {
   color: #344563;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -76,7 +76,7 @@
 .content0 p {
   width: 80%;
   color: #344563;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -85,7 +85,7 @@
 }
 
 .connect a {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -127,7 +127,7 @@
 
 .project-heading h2 {
   width: 295px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 32px;
   font-weight: 700;
   line-height: 44px;
@@ -191,7 +191,7 @@
 
 .list0 {
   font-size: 12px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   border: #000 solid 0;
   padding: 12px;
   border-radius: 8px;
@@ -300,7 +300,7 @@
 /* CONTACT SECTION */
 
 .contact-section {
-  background-image: url("./image-folder/contact\ form\ shapes-mobile.svg");
+  background-image: url('./image-folder/contact\ form\ shapes-mobile.svg');
   display: flex;
   flex-direction: column;
   background-color: #6070ff;
@@ -316,7 +316,7 @@
 }
 
 .contact-h {
-  font-family: " Poppins", sans-serif;
+  font-family: ' Poppins', sans-serif;
   font-size: 40px;
   font-weight: 700;
   line-height: 52px;
@@ -326,7 +326,7 @@
 }
 
 .contact-p {
-  font-family: " Poppins", sans-serif;
+  font-family: ' Poppins', sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 28px;
@@ -340,6 +340,8 @@
   display: flex;
   flex-direction: column;
   padding: 20px;
+  justify-content: center;
+  align-items: center;
 }
 
 .input-p {
@@ -348,7 +350,7 @@
   background: #fff;
   border: 1px solid #cfd8dc;
   border-radius: 8px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
@@ -365,7 +367,7 @@
   background: #fff;
   border: 1px solid #cfd8dc;
   border-radius: 8px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -375,7 +377,7 @@
 }
 
 .btn-1 {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 17px;
   color: #6070ff;
   width: 140px;
